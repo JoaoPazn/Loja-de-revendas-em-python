@@ -175,7 +175,7 @@ def venderprodutos():
 
 
 
-#5. Função que calcula o fim do dia
+#4. Função que calcula o fim do dia
 def Fimdedia():
     global valordiario, dias
 # calcula a renda diaria
@@ -254,4 +254,4 @@ nome_certo(ProtagonistaDaJornadaDeRevendas)
 time.sleep(2)
 print("{} : O menu da loja irá abrir, vendemos várias coisas, exceto coisas orgânicas. Boa sorte.".format(Vendedor))
  
- #parasse na função do 1.
+ #parasse na função do 4.
